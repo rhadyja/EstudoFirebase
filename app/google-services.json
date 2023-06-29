@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "137127803542",
+    "project_id": "estudo-firebase-fd1fc",
+    "storage_bucket": "estudo-firebase-fd1fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137127803542:android:1a11770a458fdbf40560b7",
+        "android_client_info": {
+          "package_name": "com.rhadyja.estudofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137127803542-0mim2rsjp6egd1g26bgqp70s4vvggg0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5LGCr9DVgpC6YMTscQFshcpObDburjPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137127803542-0mim2rsjp6egd1g26bgqp70s4vvggg0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
