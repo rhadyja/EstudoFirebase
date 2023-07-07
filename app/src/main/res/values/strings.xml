@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Estudo Firebase</string>
     <string name="entrar"> Entrar</string>
-    <string name="text_cadastro">Crie uma conta clicando aqui</string>
+    <string name="text_cadastro">Criar conta</string>
     <string name="titulo_cadastro">Cadastre-se</string>
 
 </resources>
